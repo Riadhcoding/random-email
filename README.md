@@ -1,3 +1,4 @@
+<center>
 # random emails using python
 
 ## Gmail Outllok Yahoo Hotmail and more ...
@@ -9,7 +10,7 @@
 
 ## يمكنك التعديل على ملف users.txt لي اضافة المزيد من الاسماء 
 
-# run in linux windows termux paydroid3 
+# run in / linux / windows / termux / pydroid3 
 
 ``
 git clone https://github.com/python-life/random-email
@@ -24,4 +25,6 @@ cd random-email
 python random-email.py
 ``
 
-Enjoy ;)
+  
+# Enjoy 
+</center>
